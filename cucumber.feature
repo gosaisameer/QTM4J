@@ -1,5 +1,6 @@
 # This example demonstrates using the pre-built steps in the
 # geb-cucumber library
+# comment
 
 Feature: Geb web site navigation with prebuilt steps
 
